@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a functional React Movie App without a css library.
+You can get movies' list according to a search Term.
+It is just for learning Purpose.
 
 ## Available Scripts
 
